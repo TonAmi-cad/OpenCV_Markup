@@ -3,7 +3,7 @@ A small script for marking objects with backgrounds in shades of white and stand
 
 No installation is required just simple assembly.
 
-### Necessary libraries:
-OpenCV
-libzip
-nlohmann/json
+## Necessary libraries:
+### OpenCV
+### libzip
+### nlohmann/json
